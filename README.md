@@ -2,12 +2,7 @@
 This is the official repository for the paper [Perceptual Deep Depth Super-Resolution](http://openaccess.thecvf.com/content_ICCV_2019/html/Voynov_Perceptual_Deep_Depth_Super-Resolution_ICCV_2019_paper.html).
 It contains trained MSG-V models for x4 and x8 super-resolution and IPython notebook with a usage example.
 
-[[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Voynov_Perceptual_Deep_Depth_Super-Resolution_ICCV_2019_paper.pdf) [[supp]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Voynov_Perceptual_Deep_Depth_Super-Resolution_ICCV_2019_paper.pdf) [[project page]](http://adase.group/3ddl/projects/perceptual-depth-sr)
-
-<p align="center">
-  <img src="https://github.com/voyleg/perceptual-depth-sr/blob/master/teaser.jpg">
-  <p>Visually inferior super-resolution result in the middle gets higher score according to direct depth deviation but lower score according to perceptual deviation of the rendered image of the 3D surface. While the surfaces differ significantly, the corresponding depth maps do not capture this difference and look almost identical.</p>
-</p>
+[[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Voynov_Perceptual_Deep_Depth_Super-Resolution_ICCV_2019_paper.pdf) [[supp]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Voynov_Perceptual_Deep_Depth_ICCV_2019_supplemental.pdf) [[project page]](http://adase.group/3ddl/projects/perceptual-depth-sr)
 
 ## Installation
 To run the code you will need `python3.7` and the packages from `environment.yml`.
