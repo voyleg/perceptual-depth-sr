@@ -1,0 +1,10 @@
+name: perceptual-depth-sr
+channels:
+- pytorch
+dependencies:
+- jupyter
+- matplotlib
+- numpy
+- pillow
+- pytorch=1.2.0
+- scipy
