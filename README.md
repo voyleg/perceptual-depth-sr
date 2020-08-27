@@ -1,6 +1,7 @@
 # Perceptual Depth Super-Resolution
 This is the official repository for the paper [Perceptual Deep Depth Super-Resolution](http://openaccess.thecvf.com/content_ICCV_2019/html/Voynov_Perceptual_Deep_Depth_Super-Resolution_ICCV_2019_paper.html).
 It contains trained MSG-V models for x4 and x8 super-resolution and IPython notebook with a usage example.
+It also contains the implementation of MSEv loss function and usage example.
 
 [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Voynov_Perceptual_Deep_Depth_Super-Resolution_ICCV_2019_paper.pdf) [[supp]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Voynov_Perceptual_Deep_Depth_ICCV_2019_supplemental.pdf) [[project page]](http://adase.group/3ddl/projects/perceptual-depth-sr)
 
